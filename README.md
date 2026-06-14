@@ -1,82 +1,81 @@
 <div align="center">
 
-# NyxIntrus
+# N Y X • I N T R U S
 
-Backend Developer • VR Enthusiast • Infrastructure
+```txt
+while(alive) {
+    build();
+    break();
+    rebuild();
+}
+```
 
-Building backend systems, Discord applications, VR experiences and automation tools.
+Backend • Infrastructure • XR
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I71W4R5I)
+<br>
+
+![](https://github-readme-stats.vercel.app/api?username=NyxIntrus&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
 
 </div>
 
 ---
 
-## About Me
+```txt
+> STATUS
 
-I'm a developer from Germany focused on creating reliable backend services, custom frameworks, Discord integrations and XR applications.
-
-Most of my projects revolve around performance, automation and building tools that solve real problems.
-
-### Current Focus
-
-- Backend Development
-- Discord Applications
-- Android Development
-- VR / XR Experiences
-- Infrastructure & Networking
-- Automation Systems
-
----
-
-## Technologies
-
-```text
-Java
-Kotlin
-Android
-JDA
-REST APIs
-Linux
-Docker
-Nginx
-MySQL
-PostgreSQL
-Git
+Building systems nobody asked for.
+Automating things that shouldn't be manual.
+Turning random ideas into real projects.
 ```
 
 ---
 
-## GitHub Stats
+### STACK
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NyxIntrus&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyxIntrus&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+```yaml
+Languages:
+  - Java
+  - Kotlin
 
----
+Backend:
+  - REST
+  - JDA
+  - Nginx
 
-## Projects
+Systems:
+  - Linux
+  - Docker
 
-I primarily work on:
-
-- Backend Frameworks
-- Discord Management Systems
-- REST APIs
-- VR Social Experiences
-- Android Applications
-- Internal Automation Tools
-
----
-
-## Philosophy
-
-> If a task can be automated, it should be automated.
+Interests:
+  - XR
+  - VR
+  - Infrastructure
+```
 
 ---
 
 <div align="center">
 
-Thanks for visiting my profile.
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyxIntrus&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e)
+
+</div>
+
+---
+
+```txt
+/root/projects
+
+├─ backend-frameworks
+├─ discord-systems
+├─ vr-experiences
+├─ android-apps
+└─ automation
+```
+
+---
+
+<div align="center">
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I71W4R5I)
 
 </div>
