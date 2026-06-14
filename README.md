@@ -1,81 +1,32 @@
 <div align="center">
 
-# N Y X • I N T R U S
+# NyxIntrus
 
-```txt
-while(alive) {
-    build();
-    break();
-    rebuild();
-}
-```
+Backend Developer • VR Enthusiast • Infrastructure
 
-Backend • Infrastructure • XR
-
-<br>
-
-![](https://github-readme-stats.vercel.app/api?username=NyxIntrus&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e&icon_color=58a6ff)
-
-</div>
-
----
-
-```txt
-> STATUS
-
-Building systems nobody asked for.
-Automating things that shouldn't be manual.
-Turning random ideas into real projects.
-```
-
----
-
-### STACK
-
-```yaml
-Languages:
-  - Java
-  - Kotlin
-
-Backend:
-  - REST
-  - JDA
-  - Nginx
-
-Systems:
-  - Linux
-  - Docker
-
-Interests:
-  - XR
-  - VR
-  - Infrastructure
-```
-
----
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyxIntrus&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=8b949e)
-
-</div>
-
----
-
-```txt
-/root/projects
-
-├─ backend-frameworks
-├─ discord-systems
-├─ vr-experiences
-├─ android-apps
-└─ automation
-```
-
----
-
-<div align="center">
+Building backend systems, Discord applications, VR experiences and automation tools.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I71W4R5I)
+
+</div>
+
+---
+
+## About Me
+
+I'm a developer from Germany focused on creating reliable backend services, custom frameworks, Discord integrations and XR applications.
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NyxIntrus&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyxIntrus&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+Thanks for visiting my profile.
 
 </div>
