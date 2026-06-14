@@ -1,16 +1,14 @@
-## Hi there 👋
+# NyxIntrus
 
-<!--
-**nyxintrus/nyxintrus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer from Germany.
 
-Here are some ideas to get you started:
+Building:
+- Backend Systems
+- Discord Bots
+- VR / XR Apps
+- Android Projects
+- Automation Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-readme-stats.vercel.app/api?username=NyxIntrus&show_icons=true&theme=tokyonight&hide_border=true)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I71W4R5I)
