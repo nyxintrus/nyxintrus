@@ -1,6 +1,6 @@
 <div align="center">
 
-# NyxIntrus
+# Nyxintrus
 
 Backend Developer • VR Enthusiast • Infrastructure
 
